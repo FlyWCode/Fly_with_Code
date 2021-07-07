@@ -1,4 +1,16 @@
+> 기존 문제 풀어보기
+```
+fun main(){
+    var iplak : String = readLine()!!
 
+    val fod = iplak.split(" ")
+    if(fod[1].toInt()>fod[0].toInt()){
+        var C = fod[1].toInt()-fod[0].toInt()
+        var d = fod[1].toInt()
+        println("$C $d")
+    }
+}
+```
 
 > 서로소를 직접 걸러내보기
 ```
