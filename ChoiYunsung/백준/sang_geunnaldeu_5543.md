@@ -25,4 +25,4 @@ fun main(){
 }
 ```
 
-[문제](https://www.acmicpc.net/problem/5543)
+[상근날드문제](https://www.acmicpc.net/problem/5543)
