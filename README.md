@@ -14,7 +14,7 @@
 ## **📝 문제표** 
 | |1주차(7.5~7.9)|2주차(7.12~7.16)|3주차(7.19~7.23)|4주차(7.26~7.30)|
 |:-:|:-:|:-:|:-:|:-:|
-|김보석|[주사위](https://www.acmicpc.net/problem/1233)||||
+|김보석|[주사위](https://www.acmicpc.net/problem/1233)|[팩트](https://www.acmicpc.net/problem/6463)|||
 |차경민|||||
 |정민혁|||||
 |최윤성|[상근날드](https://www.acmicpc.net/problem/5543),[톰과제리](https://www.acmicpc.net/problem/16430)||||
