@@ -17,4 +17,4 @@
 |김보석|[주사위](https://www.acmicpc.net/problem/1233)|[팩트](https://www.acmicpc.net/problem/6463)|||
 |차경민|||||
 |정민혁|||||
-|최윤성|[상근날드](https://www.acmicpc.net/problem/5543),[톰과제리](https://www.acmicpc.net/problem/16430)|[](https://www.acmicpc.net/problem/1009)|||
+|최윤성|[상근날드](https://www.acmicpc.net/problem/5543),[톰과제리](https://www.acmicpc.net/problem/16430)|[제곱수](https://www.acmicpc.net/problem/1009)|||
